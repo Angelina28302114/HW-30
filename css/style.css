@@ -4,7 +4,7 @@
     background-color: red;
     margin-top: 50px;
     margin-left: 50px;
-    animation: transitionAnimates 5s linear infinite;
+    animation: transitionAnimates 10s linear infinite;
 }
 
 @keyframes transitionAnimates {
@@ -34,6 +34,5 @@
     100% {
         margin-right: 50px;
         margin-top: 50px;
-
     }
 }
